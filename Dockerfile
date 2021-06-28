@@ -1,0 +1,1 @@
+FROM quay.io/keycloak/keycloak:14.0.0
